@@ -1,0 +1,5 @@
+*.pgm
+
+src/pharos_maps/test*
+
+.DS_Store
