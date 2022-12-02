@@ -2,4 +2,8 @@
 
 *.pgm
 
+DaeguPG/
+KAIST/
+Kcity/
+
 src/pharos_maps/test*
